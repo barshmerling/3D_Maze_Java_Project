@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_60" class="java.beans.XMLDecoder">
+ <object class="presenter.Properties">
+  <void property="algo">
+   <string>BFS</string>
+  </void>
+  <void property="axis">
+   <char>X</char>
+  </void>
+  <void property="chooseView">
+   <string>Gui</string>
+  </void>
+  <void property="mazeName">
+   <string>g</string>
+  </void>
+  <void property="numOfThreads">
+   <int>6</int>
+  </void>
+  <void property="x">
+   <int>7</int>
+  </void>
+  <void property="y">
+   <int>8</int>
+  </void>
+  <void property="z">
+   <int>5</int>
+  </void>
+ </object>
+</java>
